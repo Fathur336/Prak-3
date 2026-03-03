@@ -860,3 +860,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+/* FOOTER */
+.footer-section {
+  background: #000000;
+  border-top: 1px solid #1a1a1a;
+  padding: 2.5rem 6%;
+  text-align: center;
+}
